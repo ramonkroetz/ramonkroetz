@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/HTML5-12261E?style=for-the-badge&logo=html5&logoColor=white"/>
   </div>
   <a href="https://github.com/ramonkroetz">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramonkroetz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ramonkroetz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonkroetz&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
   
