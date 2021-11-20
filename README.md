@@ -16,7 +16,7 @@ const ramonkroetz = {
     English: 'Intermediate',
   },
   technologies: {
-    Javascript: ['React', 'Redux', 'AngularJS'],
+    Javascript: ['React', 'Redux', 'AngularJS', 'Webpack'],
     HTML: ['HTML5'],
     CSS: ['CSS3', 'Sass'],
     APIs: ['REST'],
@@ -29,6 +29,7 @@ const ramonkroetz = {
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-1C78C0?style=flat-square&logo=webpack&logoColor=8ED5FA"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squar&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
