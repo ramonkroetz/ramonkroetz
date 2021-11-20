@@ -12,6 +12,8 @@
 
 ### Frontend Developer @ CWI Software | Coca-Cola
 
+If you want to know more about my professional career, check out my Linkedln profile ;)
+
 ## About me:
 
 ```js
