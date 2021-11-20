@@ -1,8 +1,14 @@
 # Ramon Kroetz
 
-<a href="https://www.linkedin.com/in/ramonkroetz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/ramonkroetz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/12166156836?si=fa0f2a0472f04a6d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?&style=flat-square&logo=spotify&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ramonkroetz/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/ramonkroetz" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://open.spotify.com/user/12166156836?si=fa0f2a0472f04a6d" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?&style=flat-square&logo=spotify&logoColor=white"/>
+</a>
 
 ### Frontend Developer @ CWI Software | Coca-Cola
 
