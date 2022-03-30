@@ -27,7 +27,7 @@ const ramonkroetz = {
     English: 'Intermediate',
   },
   technologies: {
-    Javascript: ['React', 'Redux', 'AngularJS', 'Webpack'],
+    Javascript: ['React', 'Redux', 'NextJS', 'Webpack'],
     HTML: ['HTML5'],
     CSS: ['CSS3', 'Sass'],
     APIs: ['REST'],
@@ -44,9 +44,6 @@ const ramonkroetz = {
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Webpack-1C78C0?style=flat-square&logo=webpack&logoColor=8ED5FA"/>
