@@ -43,9 +43,6 @@ const ramonkroetz = {
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Webpack-1C78C0?style=flat-square&logo=webpack&logoColor=8ED5FA"/>
   </a>
   <a href="#" target="_blank">
