@@ -27,7 +27,7 @@ const ramonkroetz = {
     English: 'Intermediate',
   },
   technologies: {
-    Javascript: ['React', 'Redux', 'NextJS', 'Webpack'],
+    Javascript: ['React', 'NextJS', 'Webpack'],
     HTML: ['HTML5'],
     CSS: ['CSS3', 'Sass'],
     APIs: ['REST'],
