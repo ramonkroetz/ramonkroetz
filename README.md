@@ -24,7 +24,7 @@ const ramonkroetz = {
   nationality: 'Brazilian',
   languages: {
     Portuguese: 'Native',
-    English: 'Intermediate',
+    English: 'B2 - C1',
   },
   technologies: {
     Javascript: ['React', 'Next.js', 'Webpack', 'Typescript'],
