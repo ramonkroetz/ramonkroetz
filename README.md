@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Spotify-1DB954?&style=flat-square&logo=spotify&logoColor=white"/>
 </a>
 
-### Frontend Developer @ CWI Software | Coca-Cola
+### Frontend Engineer @ CWI Software | Coca-Cola
 
 If you want to know more about my professional career, check out my Linkedln profile ;)
 
