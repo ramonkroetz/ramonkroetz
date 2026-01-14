@@ -27,37 +27,11 @@ const ramonkroetz = {
     English: 'B2 - C1',
   },
   technologies: {
-    Javascript: ['React', 'Next.js', 'Webpack', 'Typescript'],
+    Javascript: ['React', 'Typescript', 'Next.js', 'Vite'],
     HTML: ['HTML5'],
     CSS: ['CSS3', 'Sass'],
-    APIs: ['REST'],
+    APIs: ['REST API'],
   }
 }
 ```
----
-<div>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Webpack-1C78C0?style=flat-square&logo=webpack&logoColor=8ED5FA"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squar&logo=css3&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  </a>
-</div>
-<!-- 
----
-## ❄️ Current Personal Projects:
-
-- Portfolio -->
 
